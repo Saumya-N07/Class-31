@@ -1,2 +1,2 @@
-# Class-31
-trajection applied to bird.
+# AngryBirdsStage3
+Stage 3 Angry Birds: Introducing Constraint
